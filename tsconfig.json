@@ -2,12 +2,12 @@
     "compilerOptions": {
         "module": "CommonJS",
         "esModuleInterop": true,
-        "target": "ES2021",
+        "target": "ESNext",
         "moduleResolution": "node",
         "sourceMap": true,
         "outDir": "dist"
     },
     "lib": [
-        "es2015"
+        "es2021"
     ]
 }
