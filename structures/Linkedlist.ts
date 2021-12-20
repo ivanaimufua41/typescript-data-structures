@@ -32,6 +32,8 @@ Cons
 Easier to do in a double linked list because the nodes have a previous and next node reference but
 singly is more difficult
 
+Linkedlist/doubly linked lists are linear
+
 Analyze each method in the class and make sure you understand how to create one w. methods
 
 
